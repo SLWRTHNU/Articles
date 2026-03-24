@@ -1,0 +1,30 @@
+
+Cloudli Connect Training
+Listen to Voicemail Messages From Connect Portal
+
+Lynn Daviault
+11/5/25
+Cloudli Connect Training
+
+
+
+
+
+
+Listen to Voicemail Message from Connect Portal
+
+At your homepage, click “Telephony”
+
+
+Click on “Voicemail”
+
+
+Click on the Extension’s voicemail box you want to review
+
+Click “Messages”
+
+
+Click “Download” to listen to the Voicemail
+
+
+

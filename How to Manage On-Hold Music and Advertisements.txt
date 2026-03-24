@@ -1,0 +1,120 @@
+
+Cloudli Connect Training
+How to Manage On-Hold Music and Advertisements 
+
+Lynn Daviault
+1/5/26
+Cloudli Connect Training
+
+
+
+
+
+How to Manage On-Hold Music and Advertisements
+This guide provides a step-by-step process to manage on hold music and in queue advertising for call centers. 
+Ensure that you are in the account for your customer for whom you wish to set-up on-hold music. Select "Telephony" from the sidebar navigation.
+
+Select "Music on hold".
+There are three options under the "Music on hold" submenu:
+Messages/Advertisements - spoken messages to be played while callers are on hold.
+Music - tracks to be played while callers are on hold.
+Music on hold - the combination of music and messages/advertisements desired when callers are on hold.
+
+Select “Messages/Advertisements”.
+
+
+
+
+
+
+
+In the main content area, you will see any previously recorded advertising. 
+
+To create a new message, click “New” in the top right corner.
+
+
+
+
+
+Enter the description for the advertising message to be recorded, and enter the text that corresponds to the audio message.
+
+Select whether you wish to upload an existing .wav file from your computer, record the message using your Cloudli IP phone, or select Text-to-Speech option.
+
+
+
+
+Click “Save and Continue”.
+
+You will see a confirmation that your advertising message was created. Click "Advertising" to return to the main page for Messages/Advertisements.
+
+
+
+
+On the main page, you will see all the available advertising messages, including the message that you just created.
+
+To add music for on-hold, click “Music”.
+
+
+
+
+
+In the main content area, you will see the "Beep every 5 seconds option", the included Cloudli Connect free music, and any tracks that you may have previously uploaded to the account.
+
+To add a new music track, click “New”.
+
+
+Enter a name for the track in the title field, then select "Choose File" to select an mp3 file from your computer.
+
+Click “Save and Continue”.
+
+
+
+You will see confirmation that your track was created. Click "Music tracks" to return to the main content area for music.
+
+On this page, you will see the track you just created along with the previously noted entries.
+
+
+
+
+
+To create a mix of music and advertising, click "Music on hold".
+
+In the main content area, you will see any previously created mixes of music and advertising tracks.
+
+
+
+
+
+To create a new mix of music tracks and advertising, click "New".
+
+Enter the description for the mix you are creating.
+
+
+
+
+
+Select whether or not this will be a default mix.
+
+Select which musical tracks you want to include in the mix, from the pre-existing sounds as well as tracks that you have uploaded.
+
+
+
+
+
+Select which promotional messages that you have created that you wish to have interspersed with the selected musical tracks.
+
+Select the desired delay option.
+
+
+
+
+
+Click “Save and Continue”.
+
+You will receive a confirmation message that your hold music was created. Click "Custom on hold" to return to the main content area for Music on hold.
+
+
+
+In the main content area, you will see the mix you just created, alongside the previously created mixes.
+
+

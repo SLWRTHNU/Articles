@@ -1,0 +1,44 @@
+
+Cloudli Connect Training
+Create a New Grouped Extension (Ring Group) 
+
+Lynn Daviault
+11/5/25
+Cloudli Connect Training
+
+
+
+
+
+
+How to Create a New Grouped Extension (Ring Group)
+This guide provides a straightforward process for creating a new grouped extension (aka Ring Group).  By following these steps, users can easily configure a Grouped Call Extension that connects multiple extensions simultaneously, ensuring that calls are answered promptly.
+
+Click “Telephony”
+
+
+Click “Extensions”
+
+
+Click “Grouped Extensions”
+
+
+
+
+Click “NEW”
+
+
+Create the Name of the Grouped Extension i.e., Ring All
+
+
+Type Ring All
+Select the desired number from the list of available extension numbers
+
+
+Click the box to check off who you like to have in the Grouped Extension
+
+Optional: Choose a Voice mailbox for the Group Extension
+
+
+Click “Save” to finish
+

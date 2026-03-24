@@ -1,0 +1,37 @@
+
+How to View Call Statistics
+A step-by-step process for viewing call center call statistics
+
+Lynn Daviault
+
+
+Cloudli Connect 
+
+
+
+
+
+
+ How to View Call Statistics
+This step by step guide will assist you in creating a call statistics report for your team and agents.  It will show totals based on the dates you selected. It will show all inbound, outbound calls, duration and provide you with an average of time spent on calls. 
+
+Click on Reports
+
+Click on “Call Log” then select “Call Statistics”
+
+Select the date you wish to run the report for.
+
+
+
+
+
+
+
+
+
+
+Click “Generate”
+
+The report will generate at the bottom of the screen, and it will look like this. You will also have the option to print your report for review
+
+

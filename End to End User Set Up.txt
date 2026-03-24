@@ -1,0 +1,206 @@
+
+Cloudli Connect Training
+End to End User Creation Step by Step 
+
+Lynn Daviault
+11/5/25
+Cloudli Connect Training
+
+
+
+
+
+
+
+
+Contents
+1. Getting Started	1
+Overview	1
+Key Differences from Clarity	1
+2. Order of Operations	1
+3. Creating a User	1
+4. Creating a Voicemail Box	2
+5. Adding a Phone Number	2
+6. Creating an Extension	3
+7. Routing & Call Flow Configuration	3
+8. Creating Ring Groups	4
+9. Prompts & Greetings	4
+10. Creating Auto Attendants	5
+11. Scheduling Call Flows	5
+12. Temporary Call Forwarding	5
+13. Mailbox Drops	6
+14. SMS Setup	6
+15. Tips & Best Practices	6
+
+
+
+
+
+
+
+
+1. Getting Started
+Overview
+Cloudli Connect replaces Clarity as the new CRM and telephony management platform. While Clarity automated many background processes, Cloudli Connect requires manual configuration of key components. Understanding how to build these components helps you troubleshoot them effectively later.
+Key Differences from Clarity
+Clarity automated most setups (e.g., voicemail, routing).
+Cloudli Connect requires manual creation of users, extensions, and routing components.
+“Pointers” in Clarity are replaced by number-to-number routing actions in Cloudli.
+
+2. Order of Operations
+When setting up a new user, we recommend this sequence:
+Create the user
+Create a voicemail box
+Add a phone number
+Create the extension
+Configure routing and caller ID
+Tip: Follow this order to avoid configuration errors. Once you gain experience, you may adjust the flow to fit your workflow.
+
+3. Creating a User
+Steps
+Go to Users → New
+Enter:
+First Name / Last Name
+Language: English (required)
+Email Address:
+Used for voicemail delivery and login credentials.
+Address: Used later for E911 location services.
+Optional: Business and cell numbers
+Save the user record.
+(Optional) Assign a login and password immediately or return later under user settings.
+ Warning: Make sure the email address is correct—this is where voicemail transcriptions will be sent.
+
+4. Creating a Voicemail Box
+Steps
+Navigate to Voicemail → New
+Choose an unused voicemail number (e.g., 5000+ series).
+Set a PIN — typically, the same as the user’s extension for simplicity.
+Associate the voicemail box with the correct user.
+Set message retention duration (e.g., 60 days).
+Optionally upload:
+Standard greeting
+Vacation/holiday message
+
+
+Under Advanced Settings:
+Enable Automatic Transcription
+Set Notification Preferences
+Add Email Copies to external addresses if needed
+Tip: Use a standard naming convention and retention policy for consistency across users.
+
+
+
+5. Adding a Phone Number
+Steps
+Navigate to Numbers → Add New
+
+
+Select a number from the available pool.
+Set Language to English.
+Define Ownership:
+Check “Dedicated” if this number belongs to one user only.
+Leave unchecked to allow multiple users (shared caller ID).
+Add notes for clarity (e.g., department or purpose).
+Select the user’s address (important for E911 compliance).
+Set a temporary action, such as routing to voicemail until setup is complete.
+
+6. Creating an Extension
+Steps
+Navigate to Extensions → New
+Enter the Extension Number (same as voicemail for consistency).
+Associate the User and optional Device (if applicable).
+Under Advanced Settings, define:
+Voicemail box for missed calls
+911 Address
+Caller ID (CNAM) preferences
+
+
+Tip: Always confirm 911 address and caller ID values before finalizing setup.
+
+
+7. Routing & Call Flow Configuration
+Once user, voicemail, number, and extension are created:
+To Route Calls
+Go to Numbers → [Select Number] → Action → Edit
+Choose Call Extension with Voicemail
+Input:
+Extension: 5000
+Ring Duration: 30 seconds
+No Answer: Route to Voicemail 5000
+Click Save.
+ Warning: Always verify the time zone setting under Advanced for proper schedule behavior.
+
+8. Creating Ring Groups
+Steps
+Go to Extensions → Grouped Extensions → New
+Enter:
+Name: e.g., “Support Team”
+Number/Extension: e.g., 6000
+Add Users to the group.
+Optionally assign a group voicemail.
+Tip: Avoid enabling group voicemail unless requested by the client.
+
+
+
+
+9. Prompts & Greetings
+Overview
+Prompts are pre-recorded or AI-generated audio messages for menus, announcements, or greetings.
+Steps
+Navigate to Prompts → New
+Upload or record a greeting.
+You can use the AI Voice (Olivia) to generate recordings from text.
+Prompts automatically become available when building Auto Attendants.
+Tip: Use descriptive names (e.g., “Main_AA_Greeting”) to find them easily.
+
+10. Creating Auto Attendants
+Steps
+Navigate to Components → New → Auto Attendant
+Select your Greeting Prompt (created earlier).
+Define menu options:
+1 → Ring Group (Support)
+2 → Voicemail Box (Sales)
+9 → Dial-by-Name Directory
+Enable “Allow direct extension dial.”
+Save your setup.
+Tip: Build auto attendants as separate components for greater flexibility in reusing and modifying flows.
+
+11. Scheduling Call Flows
+Go to Number → Action → Edit → Schedule
+Define business hours (e.g., Weekdays 8 AM–5 PM).
+Assign Daytime Action: Auto Attendant
+Assign After Hours Action: Voicemail or alternate routing.
+Confirm Time Zone setting.
+
+12. Temporary Call Forwarding
+Locate the user’s number.
+Go to Temporary Action → Select Prebuilt Forwarding Component.
+Enable it (e.g., forward to cell).
+Disable it later to revert.
+ Warning: Always confirm call forwarding with the client before activation.
+
+13. Mailbox Drops
+Mailbox drops allow pre-recorded voicemail messages to be delivered automatically.
+Steps
+Go to Mailbox Drops → New
+Assign:
+User
+Digit key (0–9) for trigger
+Description (optional)
+Upload or record the voicemail drop.
+
+
+
+14. SMS Setup
+Go to SMS → Add
+Choose an assigned number.
+Configure routing or linking to the user account.
+
+15. Tips & Best Practices
+Always double-check email addresses and 911 addresses.
+Follow the user → voicemail → number → extension order.
+Use English for all configurations to prevent errors.
+Keep consistent naming conventions for clarity.
+Use notes fields to record details like department or region.
+
+

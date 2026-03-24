@@ -1,0 +1,49 @@
+
+Cloudli Connect Training
+How to Set up a SCID Number 
+
+Lynn Daviault
+11/5/25
+Cloudli Connect Training
+
+
+
+
+
+ 
+How to Set up a SCID Number
+This guide provides a straightforward, step-by-step process for setting up a SCID number.
+
+Click “Telephony”
+
+
+Click “Numbers”
+
+
+Click “NEW”
+
+
+Select the number desired to be an SCID Number
+
+
+Select the “English” option
+
+
+Select the appropriate 911 address from the drop down menu
+
+
+
+
+Click on “Action” Menu
+
+
+Click “Route to previously connect extension” in the drop down menu
+
+
+Update the duration that supports your SCID use case
+
+Update the “Enable voicemail” drop down menu to “Yes”
+
+
+Click “Save”
+

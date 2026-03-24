@@ -1,0 +1,221 @@
+
+Cloudli Connect Training
+Call Centre & Queue Management in Cloudli Connect 
+
+Lynn Daviault
+11/5/25
+Cloudli Connect Training
+
+
+
+
+
+
+CRM Call Center & Queue Management (Cloudli)
+
+1) Orientation: What This Module Does
+
+The Call Center module routes inbound calls to agents, tracks performance, and offers login/log‑out via star codes. There are two modes you’ll encounter:
+
+Call Queue Lite (“Call Center Lite”) – simple music‑on‑hold and ringing to a group; no advanced strategy. Best for small offices (e.g., a doctor’s office) with short max wait (≈3–5 minutes).
+Full Call Center – advanced login, skills, queue strategies, dashboards, and reporting.
+
+Note: In this platform, the call center extension is separate from the user’s normal UC phone extension.
+
+2) Key Concepts
+
+Agent: User that receives calls via queues.
+Queue: A line where callers wait to be answered by agents.
+Status: Agent availability (Available, Break, Training, etc.).
+Wrap‑Up (Auto‑Change Delay): Time after a call before agent returns to Available.
+Overflow: Rules that allow a call to move/consider another queue after a max wait.
+SLA (Service Level): % of calls answered within a defined time (e.g., 80% in ≤3 min).
+
+3) Star Codes (Agent Quick Reference)
+
+Call Queue Lite login/out: `*22` (login), `*23` (logout) *(default behavior: all logged in)*
+Full Call Center login: `*07` → system prompts for your call center extension
+Full Call Center logout: `*09`
+
+ Warning:  For the Full Call Center, agents must know their call center extension. It is not the same as their everyday UC extension (common mapping example: UC 101 → CC 201).
+
+
+4) Call Queue Lite (Simple Ring Group with Music)
+When to use
+Small teams where everyone can answer and detailed strategies aren’t required.
+
+
+How it rings
+Rings all agents in the group, then repeats at an interval (e.g., every 5 seconds).
+You can set how many ring cycles before the call returns to the queue.
+
+Setup Steps (Admin)
+Create/Select Queue Lite group in the CRM’s Call Routing area.
+Add agents to the group.
+Set Music on Hold, Ring Interval (e.g., 5s), and Max Wait (3–5 min recommended).
+Choose overflow/voicemail behavior when Max Wait is reached.
+
+Tip:  Keep Max Wait short for small offices; if callers wait too long, they’re likely to abandon.
+
+
+5) Full Call Center — Configuration
+5.1 Agents
+
+Path: Admin → Call Center → Agents
+
+Add Agent and assign a Call Center Extension (separate from UC extension).
+(Optional) Skills: Assign language (e.g., English/French) or Tier (1/2/3).
+Caller ID & Recording Controls: Enable recording for call center calls only.
+
+ Warning:  Call center recording does not record standard UC seat calls—only calls via queues.
+
+5.2 Queues
+
+Path: Admin → Call Center → Queues
+
+Create/Select a Queue and add Agents.
+Set Priority, Music, and (if the queue has a direct number) Time Conditions (after‑hours → voicemail or alternate destination).
+Call Limit (Safety Cap): E.g., 10 for smaller customers to avoid untenable hold lists.
+Overflow to another queue after Max Seconds (e.g., 60s).
+
+  Tip: At 60s the system watches both queues; it will deliver to the first available agent according to your status rules.  Mark overflow calls with an Overflow Indicator for agents.
+
+
+
+Tip:  When enabling overflow, restrict to an Available status match in the destination queue to keep behavior predictable.
+
+5.3 Status & Wrap‑Up
+
+Path: Admin → Call Center → Status
+
+Set Auto‑Change Delay (wrap‑up) → e.g., return to Available after 1:00.
+Choose behavior for external/internal outbound calls (e.g., internal calls keep agent Available).
+Missed Calls → Auto‑Break: If an agent misses 1 call, automatically set Break.
+
+ Warning:  Failing to set wrap‑up can cause agents to be flooded immediately after ending calls, hurting quality and documentation time.
+
+5.4 Strategy (Ring Distribution)
+
+Path: Queue → Strategy
+
+Options include:
+
+All Agents / All Agents Not Already on a Call
+Language‑Aware variants
+Historical Agent (longest idle)
+Least Busy (last 24h) considering language and talk time
+
+Tip:  Start with Longest Idle to balance workload, then tune toward Least Busy (24h) if service levels vary by shift.
+
+5.5 Option 1 — Callback OR Voicemail
+
+Path: Queue → Callers’ Option 1
+
+You may enable one of the following (currently mutually exclusive because both use “Press 1”):
+
+Press 1 → Voicemail (caller leaves a message)
+Press 1 → Callback (system captures number/name and waits to call back)
+
+
+ Warning:  Callback is region‑locked to reduce toll fraud: Canadian numbers call back Canadian, US numbers call back US. For cross‑border operations, coordinate with engineering for allowed use‑cases.
+
+5.6 Prompts (for Callback)
+
+Path: Admin → Prompts
+
+Create the voice prompts (examples):
+
+“Please say your name after the beep, then press #.”
+“Please enter the 10‑digit callback number, then press #.”
+“Press 1 to accept, or 2 to enter a different number.”
+“This is an automatic callback request for <Recorded Name>. Goodbye.”
+
+Tip:  Batch your prompt recording session. You can author and upload all prompts in ~10 minutes when prepared.
+
+5.7 Phone Buttons (Agent Status Keys)
+
+Reserve the top‑left 4 keys on compatible desk phones to change status. Ensure the user’s own line key is on the right column.
+
+ Warning:  Status button positions are fixed today; color customizations are not yet supported.
+
+
+6) Dashboards & Daily Use
+6.1 Supervisor Dashboard
+
+Queue Stats: SLA, calls waiting, abandoned calls.
+Agent Pane: See status; Call, Whisper (coach only agent hears), Listen, or Steal a call.
+Middle Pane: Calls waiting and pending callbacks.
+
+Tip:  Pin an Overflow badge so supervisors see when calls arrived via overflow and can rebalance staffing.
+
+
+6.2 Agent View
+
+Calls in Queues You’re In
+Current Call Activity and personal stats
+ACD Activity History (Logged in/out, Training, etc.)
+Change Status here or via phone buttons
+
+Login/Logout Flow (Agent):
+
+On handset or app dial `*07`.
+When prompted, enter your Call Center extension.
+Work your queue(s) normally.
+End of day: dial `*09` to log out.
+
+Tip:  If you miss a call, the system can move you to Break automatically. Supervisors will track time logged in.
+
+
+ 7) Reporting
+
+Common reports include:
+
+Agent Performance (most used; selections persist after first run)
+Abandoned Calls
+Failed Recalls (callbacks rejected/no‑answer)
+
+
+ Warning:  Scheduling automated report delivery is not available yet. Export manually during this phase.
+
+
+8) Common Admin Tasks (Step‑by‑Step)
+
+A) Add or Remove Agents from a Queue
+
+Admin → Call Center → Queues → pick queue.
+Members tab → Add / Remove agents.
+Save and notify supervisors.
+
+B) Set After‑Hours Routing (Direct‑Dial Queue Numbers)
+
+Queue → Time Conditions.
+Define business hours and after‑hours.
+After‑hours action → Voicemail, Forward to cell, etc.
+
+Tip:  For individual users who want “ring desk by day, ring cell after 4 PM,” build a number‑level schedule with a sequence of actions.
+
+C) Configure Overflow to a Scheduling/Secondary Queue
+
+Queue → Overflow.
+Set Max Seconds (e.g., 60).
+Choose Destination Queue and allowed agent statuses (usually Available only).
+Enable Overflow Indicator for visibility.
+
+
+D) Block a Harassing Number (Call Screening)
+
+Admin → Call Screening/Blocklist.
+Add the Caller ID/Number.
+Choose action: Busy Signal or Play Message.
+
+ Warning: Use precise E.164 numbers (+1… / +countrycode…) when available to avoid false positives.
+
+E) Enable Callback (Option 1) with Prompts
+
+Queue → Option 1 → choose Callback (not voicemail).
+Upload/select required prompts.
+Test both US and Canada flows if applicable to your sites.
+
+
+
+

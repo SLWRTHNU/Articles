@@ -1,0 +1,82 @@
+
+Cloudli Connect Training
+How to Configure Call Recording and Transfer records 
+
+Lynn Daviault
+1/5/26
+Cloudli Connect Training
+
+
+
+
+
+How to Configure Call Recording and Transfer Records
+This guide provides a straightforward process for configuring call recording and transferring records, ensuring you can efficiently manage your telephony needs. By following the steps outlined, users can easily set up and access call recordings, enhancing their communication capabilities. Whether for compliance or quality assurance, this guide is essential for anyone looking to optimize their telephony system.
+
+Navigate to https://connect.cloudli.com
+
+Click Telephony
+
+
+
+
+Click Extensions
+
+Click Extensions
+
+
+
+
+
+
+Click the extension you wish to enable call recording on
+
+Click the System Tab
+
+
+
+
+
+
+Click Edit
+
+Click this checkbox to enable call recording.
+
+
+
+
+
+
+Click Save
+
+To access the admin capabilities, click call recordings on the menu.
+
+
+
+
+
+Click Report
+
+Click the users you wish to pull a report for and add the start and end dates and times for the report to pull.
+
+
+
+
+Click Generate
+
+Click Transfer to transfer call recoding data off the Cloudli Connect Platform
+
+
+
+
+
+Click New
+
+Select the FTP option, enter the IP address and TCP port number of the location you wish the files to be transferred.  Complete the required fields.
+
+
+
+
+Click Save
+
+

@@ -1,0 +1,85 @@
+
+Cloudli Connect Training
+How to Assign Rights and Permissions to Users 
+
+Lynn Daviault
+1/5/26
+Cloudli Connect Training
+
+
+
+
+
+How to Assign Rights and Permissions to Users
+This guide provides a step-by-step process for assigning rights and permissions to users within the Cloudli platform, ensuring that team members have the appropriate access to perform their roles effectively. By following these instructions, users can streamline their workflow and enhance collaboration within their organization. It's essential for administrators looking to manage user permissions efficiently and maintain security protocols. Viewing this guide will empower you to optimize user access management seamlessly.
+Navigate to https://connect.cloudli.com
+
+Once you are on your customer account, click on Client-Sales
+
+
+
+Click the Users link from the menu
+
+You will see all the users listed in your account. In the top righthand corner you could select “new” to start the wizard if you need new user. For this user guide, we will focus on updating the permissions for an existing user.
+
+
+
+
+
+Click on the user for whom you want to adjust the permissions
+
+Click the Rights Management Tab
+
+
+
+
+
+
+Click Edit
+
+Click the Add button
+
+
+
+
+
+
+
+Select the account from the drop down menu. Be sure to select the correct account because it's possible more then one account will be accessible by a user.
+
+Select the rights and permissions you want to give this user
+
+
+
+
+
+
+If you need to assign multiple privileges continue to hit the add button until all the permissions and privilege are assigned.
+
+Click Submit for each role or permissions granted. When Completed adding all permissions scroll to the bottom of the page and select save. Now that user should log out of the portal, log back in, and start using their new permissions.
+
+
+
+
+
+An additional way to add roles and permissions is to click the roles/rights batch assignment link from the menu. This allows you to use the roles wizard to quickly assign roles to groups of people.
+
+Select the role or permission you wish to assign
+
+
+
+
+Click Next
+
+Select the users from the list that you’d like to assign to this role.
+
+
+
+
+
+When all users have been selected, click Next
+
+Review the changes and when ready, click Submit
+
+
+

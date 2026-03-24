@@ -1,0 +1,64 @@
+
+How to View Summary Reports by Extension (Date) and Extension by Period
+A step-by-step process for viewing reports by extensions
+
+Lynn Daviault
+
+
+Cloudli Connect 
+
+
+
+
+
+
+How to View Summary Reports by Extension (Date) and Extension by Period
+This step by step guide will assist you in creating a report by extensions.   It will show totals based on the dates you selected. It will show all inbound, outbound calls, total calls, duration and provide you with an average of time spent on calls by individual. 
+
+Click on Reports
+
+Click on Summary-Extension (Date).  
+
+Select the date you wish to view as a detailed report and click “Generate”
+
+
+
+
+
+A detailed report for that specific date will populate. You will have the option to print this report for review
+
+If you wish to view data from a specific date range, you can do so by clicking on Summary-Extension (Period)
+
+Select the date range for your data and click “Generate”
+
+
+Now the report will be a consolidated report for the date range selected.  You will also be able to print this report for review.
+
+How to View Summary Reports by Extension (Date) and Extension by Period
+Click on Reports
+
+Click on Summary-Extension (Date).  
+
+Select the date you wish to view as a detailed report and click “Generate”
+
+A detailed report for that specific date will populate. You will have the option to print this report for review
+
+If you wish to view data from a specific date range, you can do so by clicking on Summary-Extension (Period)
+
+Select the date range for your data and click “Generate”
+
+
+Now the report will be a consolidated report for the date range selected.  You will also be able to print this report for review.
+
+How to View Summary Reports by Phone Number (Date) and Phone Number by Period
+Like the previous reports using extensions, you can generate reports based on assigned phone number.  
+Click on Call Logs
+
+Click on Summary-Phone Number (Date)
+
+Select the date and click on “Generate”
+
+The report will generate and you will have options to print or export these logs
+
+If you wish to view logs from a specific date range, follow the above steps and select Summary-Phone Number (Period). Select the date range you wish to see data.  Data will present itself in the same manner as above but date range based. 
+

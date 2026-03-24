@@ -1,0 +1,47 @@
+
+Cloudli Connect Training
+How to Bulk Upload Users 
+
+Lynn Daviault
+1/5/26
+Cloudli Connect Training
+
+
+
+
+
+How to Bulk Upload Users
+This guide provides a straightforward process for bulk uploading users, making it essential for anyone looking to efficiently manage user data. It includes practical tips, such as a practice session to ensure successful uploads, and offers access to necessary templates. By following these steps, users can streamline their import process and maintain accurate records, ultimately saving time and reducing errors.
+
+Open the Client-Sales tab and click on Import Persons
+
+Click on Import Template to expand the menu
+
+Here you will find all the possible import templates that can be downloaded.  Please note, Import Person (Voice).CSV file will be used for Cloudli Connect.
+
+Click on Import Persons to expand the menu
+
+
+
+
+
+If this is your first time you can check this box to have a practice session and the system will let you know if your upload would have been successful.
+
+Choose the file you want to upload and click Import. Please double check to make sure you have the correct template. 
+
+
+
+
+Click on Previous Imposts to expand the menu
+
+If you want to delete a previous upload select the upload and hit delete.
+
+
+
+
+
+
+Confirm delete to complete the process.
+
+To export your current configuration use the export persons tab and hit download. 
+

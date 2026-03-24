@@ -1,0 +1,53 @@
+
+How to View the Supervisor Dashboard (Real-Time Monitoring)
+A Step-by-Step Guide to Monitoring Agents, Queues, and Performance Metrics
+
+Lynn Daviault
+
+
+Cloudli Connect 
+
+
+
+
+
+
+How to View the Supervisor Dashboard (Real-Time Monitoring)
+This document provides supervisors with a practical guide to accessing and using the Cloudli Connect Supervisor Dashboard for real-time call center monitoring. It walks through how to view live queue activity, track agent status and performance, monitor active calls, and generate historical reports. By following these steps, supervisors can effectively oversee daily operations, respond quickly to changing call volumes, and use performance data to improve efficiency and service levels across their teams
+
+To access the call center supervisor’s dashboard, click on your icon on the top right-hand side of the page. 
+
+Click on “Contact Center v 2.1”
+
+
+
+
+
+On the dashboard, you can toggle between different queues or view the statistics for all of them.  You will be able to see your established SLA, Queue Statistics, Call Statistics, and Status of any agent. 
+
+In the middle section you can view calls waiting in queue or calls that have requested a callback from the queue when an agent is available. 
+
+
+
+
+
+If you click on one of the agents you can call, silent monitor the call if they are on a call, whisper coach, or steal the call.  Whisper coach is a feature that allows you to speak to the agent mid call.  The agent will hear it but the person they are talking to will not.  You are also able to view the agent’s statistics or run reports on them
+
+On the active tab you can see the activities in progress as well as filter by queue.
+
+
+
+
+Within the agent dashboard you can see all the agents status along with several other statistics. 
+
+Click on “Reports”. These are all the historical reports you can use to make your call center more efficient.  Next, click on the Agent Performance Report.
+
+
+To run a report, click on the report, then select the day and time rages you want to the report to pull data for.
+
+
+If you select a statistic to include in your report, after you execute the report, the system will save the boxes you have checked. 
+
+
+
+Now you can execute and download the report in excel. 

@@ -1,0 +1,76 @@
+
+Cloudli Connect Training
+How to Configure your Call Center Queue Settings 
+
+Lynn Daviault
+1/5/26
+Cloudli Connect Training
+
+
+
+
+
+How to Configure your Call Center Queue Settings
+This guide provides a step-by-step approach to configuring your Call center Queue Settings, ensuring optimal management of call traffic and customer interactions. By following these instructions, you can effectively customize your queue settings to enhance efficiency and improve customer satisfaction. Whether you're a novice or experienced user, this guide simplifies the process, making it easier to tailor your call center operations to meet specific needs.
+
+Navigate to https://connect.cloudli.com
+
+Click Contact Centre
+
+
+Click on Queues
+
+Click the call queue number you wish to modify the settings for. 
+
+
+
+
+
+
+Click the General Tab
+
+Click Edit.
+
+
+
+
+In the general tab you will see the queue name, the extension assigned to the queue, what agents are put into the queue, and the skill of those agents. Skills are used to group agents. It can indicate language spoken, and can be used to categorize any skillset, for example a tier 1 support representative verses a tier 3 advanced support representative.
+You may assign this queue a high or low priority. Using priority between queues can allow for specific calls to be bumped in front of others when you have the same agent in multiple queues. The idea is the most important calls go through the system faster whereas lower priority would likely have longer wait time.
+You can assign custom music on hold for this queue.
+Lastly, you have the ability to set a service level threshold for the queue. This should be a real number, in seconds, that is the target time to answer the call.
+
+
+Click closing and then edit. Many times the closing tab is not used. This is because there is a time condition on an auto attendant or hunt group that redirects the call after hours before it ever hits the queue. In the event you have a “main number” that calls directly into the queue then you might need this tab. It simply lets you enter your operating hours.
+Anything outside of those operating hours would then go to the skill and queue you select in the drop-down box.
+
+Click Call Limit, then Edit. Call limit prevents wasted time for customers by setting a threshold for how many calls can sit in queue. Once that number is reached—based on your agents and average call times—it’s clear calls won’t be answered quickly.
+For example, with 5 agents averaging 2.5 minutes per call, 40 callers in queue won’t be helped soon. In this case, you can use call-backs (covered later).
+Instead of making customers wait, play a message such as: “We are experiencing high call volumes. Please leave a message, and we’ll call you back as soon as possible.” You can route them to voicemail, another queue, or a different location.
+
+
+
+
+ Click the Overflow tab
+
+
+Then click edit. Overflow is a backup tool that routes calls once a set threshold is reached. Similar to call limits, overflow can move calls to another queue—but only to another call center queue.
+Calls won’t overflow until both conditions are met: the maximum call threshold and the maximum wait time. You can control overflow by choosing the target queue, required agent skills, and agent statuses.
+If no agents are available in the target queue, calls will never overflow. In that case, even if the timer passes (e.g., 600 seconds), the call stays in the first queue until an agent there becomes available.
+Next click the status tab.
+
+
+Click edit on the status tab. Status Tab tracks agent activity and time in each state, visible on the supervisor’s real-time dashboard.
+Change after calls: Sets agent status once a call ends. Typically, agents go to Available after a short wrap-up period.
+Wrap-up delay: Adjustable from 15 seconds to 5 minutes (most use 30–60 seconds) to allow note-taking or task completion.
+Outbound calls: Define statuses for external and internal calls, and what agents return to after.
+Missed calls: Usually set to Break. If an agent logs in as ready but doesn’t answer, you can log them out and track it. Avoid setting missed-call status to Available—it can cause system issues.
+Next click the strategy tab.
+
+Click edit. Strategy Tab lets you choose the ring strategy for your call queue.
+Avoid ringing all agents—it’s inefficient and inflates missed call counts (e.g., 1 answered, 4 missed).
+Historical Agent (Longest Idle) is the fairest and most common method, ensuring balanced call distribution.
+
+Click Option 1 callback. Call Back Tab helps reduce peak-time wait with two options:
+Voicemail: Customers can press 1 anytime, leave a message, and receive a call back.
+Queue Callback: Customers press 1 to request a callback, confirm their number (not limited to the calling line), and are called once the queue drops to a set threshold (recommended 1–3; e.g., 2 calls remaining).
+

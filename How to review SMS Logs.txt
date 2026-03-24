@@ -1,0 +1,41 @@
+
+Cloudli Connect Training
+How to review SMS Logs 
+
+Lynn Daviault
+11/5/25
+Cloudli Connect Training
+
+
+
+
+
+
+ How to review SMS Logs
+This guide provides a straightforward process for reviewing SMS logs, making it easy for users to access and analyze their messaging data. 
+
+Click “Telephony”
+
+
+Click “SMS Number”
+
+
+Search for User or SMS number by entering the data in this field
+
+Click the Telephone Number
+
+
+Click the down arrow on the Menu Button
+
+
+Click “SMS Logs”
+
+
+Select the desired data range
+
+
+Click “Generate”
+
+
+Click “Export” to download the logs
+

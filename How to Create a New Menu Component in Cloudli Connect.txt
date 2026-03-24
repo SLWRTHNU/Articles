@@ -1,0 +1,43 @@
+
+Cloudli Connect Training
+How to Create a New Menu Component in Cloudli Connect 
+
+Lynn Daviault
+1/5/26
+Cloudli Connect Training
+
+
+
+
+
+How to Create a New Menu Component in Cloudli Connect
+This guide provides a straightforward process for creating a new menu component in the Cloudli platform. By following this guide, users can efficiently configure menu components tailored to their needs, improving their overall telephony management.
+Navigate to https://connect.cloudli.com
+
+Click “Telephony”
+
+
+Click “Menus-Components”.
+
+The main content area will display any previously created menu components; you can click on an existing menu component (if available) to make any edits or updates. To create a new menu component, click "New".
+
+
+
+Enter the name for the menu component
+
+Select the extension to which you wish to assign the menu component
+
+
+
+
+
+Select the desired action from the “Action” dropdown menu.
+
+Additional fields will appear to complete the configuration for the specific action that you have chosen. Please complete all fields.
+
+
+
+
+Once you have completed entering all the required fields, click "Save and Continue." If you have left a field blank, you will receive an error message. If all fields are appropriately populated, you will receive a confirmation message.
+
+

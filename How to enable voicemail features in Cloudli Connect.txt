@@ -1,0 +1,68 @@
+
+Cloudli Connect Training
+How to enable voicemail features in Cloudli Connect 
+
+Lynn Daviault
+11/5/25
+Cloudli Connect Training
+
+
+
+
+
+
+How to enable voicemail features in Cloudli Connect
+This guide provides a step-by-step process to enable voicemail features in Cloudli Connect, making it easy for users to enhance their telephony experience. By following the instructions, users can customize their voicemail settings efficiently, ensuring they never miss important messages. The clear layout and detailed steps help even those with minimal technical knowledge to navigate the platform confidently. Viewing this guide will empower users to optimize their voicemail functionality seamlessly.
+
+Click on Telephony
+
+
+Click on Voicemail
+
+
+
+
+
+
+Click the extension you wish to adjust
+
+
+Click Edit
+
+
+Click the record button to record your full name.  You can click the record button to record a new greeting and an out of office message.
+
+When your recordings are complete, click “Ok”
+
+Click the Advanced Options tab
+
+
+Click Edit
+
+On this tab you can enable or disable email notifications.  You have options to auto delete after email is sent, you can also select another user to be copied on voicemails.
+
+
+You can select for voicemails for auto transcription, you can force a password change, and lastly can select a number for the extension to call. 
+
+
+
+When all options have been updated, click “Save”
+
+
+Click the Message tab
+
+
+Herr you are able to view all your messages and are able to delete old messages
+
+
+Select all voicemails you wish to delete and click the delete button
+
+
+
+Select “Yes” or “No”. 
+
+
+Click the notification tab to view notifications
+
+
+

@@ -1,0 +1,49 @@
+
+Cloudli Connect Training
+How to Edit an Extension's Call Recording Settings 
+
+Lynn Daviault
+11/5/25
+Cloudli Connect Training
+
+
+
+
+
+
+How to Edit an Extension's Call Recording Settings
+This guide provides a straightforward process for editing call recording settings for extensions.
+
+Click “Telephony”
+
+
+Click on “Extensions”
+
+
+Enter the Extension Number you want to review Call Recording settings for
+
+
+
+Click the desired Extension Number
+
+
+Click “System”
+
+
+Click “Edit”
+
+Click this checkbox to ENABLE Call Recording
+
+
+Click “Save”
+
+
+To DISABLE Call Recording for an Extension, from this screen click “Edit”
+
+
+
+Uncheck this box by clicking on it
+
+
+Once you see the box is Unchecked, click “Save”.
+

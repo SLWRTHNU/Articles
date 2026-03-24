@@ -1,0 +1,58 @@
+
+Cloudli Connect Training
+How to access all menu components in Cloudli Connect 
+
+Lynn Daviault
+1/5/26
+Cloudli Connect Training
+
+
+
+
+
+How to Access All Menu Components in Cloudli Connect
+This guide provides a straightforward walkthrough for accessing all menu components in Cloudli Connect, ensuring users can efficiently navigate the platform. By following the outlined steps, users can easily locate essential features related to telephony and reporting. It's an invaluable resource for anyone looking to maximize their use of Cloudli Connect, enhancing productivity and streamlining operations.
+
+Navigate to https://connect.cloudli.com
+
+Click Clients-Sales. In the Client Sales section, you can manage user accounts along with the roles and permissions assigned to each user. These can be managed individually or through bulk assignments, depending on your needs.
+
+
+Click Telephony. In the Telephony section, you’ll find tools to manage your APIs—including API logs, subscriptions, and tokens. You'll also have access to call queuing features, where you can create queues, assign descriptions, add extensions, configure the number of rings and intervals, and even set overflow timeout delays in seconds.
+The Transfer section refers to FTP transfers, which allow you to schedule automatic transfers of call recordings and related storage.
+You’ll also find Call Screening functionality, which helps you prevent unwanted calls by intercepting those from specific, predefined numbers based on rules you define within the portal.
+The Contacts module allows you to manage individual contacts as well as create and organize group contacts for your organization.
+Under the Devices section, you can manage device-related details, such as MAC addresses, telephone models, assigned numbers, extensions, and the last provisioning date for each device. You can also manage extensions directly, including adding features such as call parking, feature codes, expansion modules, intercoms, and group extensions.
+In terms of fax management, you’ll have access to both physical and virtual fax capabilities.
+The Menu Components section under Telephony enables you to construct call menus using modular, easy-to-manage elements.
+There’s a Multicast Voicemail feature, which allows you to record and broadcast messages to the voicemail boxes of multiple subscribers. The Music on Hold section allows for the configuration and management of music, dropbox messages, and promotional audio to be played while callers are on hold.
+You can also manage telephone numbers, viewing and organizing all numbers associated with your account. Additional options include permanent conference rooms, fax printers, audio prompt management, and the Receptionist Console, which offers further configuration of call flows and interactions.
+
+
+Click Contact Centre. If you’ve opted into the Contact Center feature, you can access management tools for agents, call queues, and skill assignments all from within the menu.
+
+
+
+
+
+
+
+Click Reports. In the Reports section offers in-depth insights. You can generate reports on:
+Call statistics
+Extension summaries (by date or period)
+Number-based summaries
+Contact center metrics such as abandoned calls, agent performance, status logs, time sheets, callback failures, voicemail redirection, wait time thresholds, calls on hold, and queue performance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
