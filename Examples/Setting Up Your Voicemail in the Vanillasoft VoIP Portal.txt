@@ -1,0 +1,188 @@
+<p>
+  <strong>Voicemail</strong> in <strong>Vanillasoft VoIP</strong> allows you to
+  manage missed calls by storing messages from contacts who reach your voicemail.
+  Configuring voicemail settings ensures that callers can leave messages when you're
+  unavailable, and you can customize greetings, retention policies, and notification
+  preferences to match your workflow. This feature is particularly useful for managing
+  high call volumes, maintaining professionalism during off-hours, and ensuring
+  no important message is missed.&nbsp;
+</p>
+<p>
+  Voicemail settings are configured within the
+  <strong>Vanillasoft VoIP portal</strong>. Once set up, voicemail messages are
+  delivered to your extension, where you can retrieve and manage them based on
+  your preferences.
+</p>
+<hr style="height: 1px; visibility: hidden;">
+<div class="accordion">
+  <p>
+    <strong>Set Up Voicemail</strong>
+  </p>
+</div>
+<div class="panel">
+  <ol>
+    <li data-list-item-id="ea7ffb759ca76d6dc57f1b74fcd2c7782">
+      <p>
+        Log in to the
+        <a href="https://connect.cloudli.com" target="_blank" rel="noopener noreferrer"><strong>Vanillasoft VoIP portal</strong></a>.<br>
+        <img src="/guide-media/01KG7QZRYJN8FN4MY4GVFXAHPW" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e39ff8e5ff472506df631d46c2080ef52">
+          Note: This portal may display <strong>Cloudli</strong> branding
+          because it is hosted by Cloudli. All configuration and support
+          are handled by <strong>Vanillasoft</strong>. For assistance,
+          contact
+          <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e2dc2a95b3e8d2f1ea97cb9fab4958657">
+      <p>
+        Open the <strong>Telephony</strong> menu from the main navigation.<br>
+        <img src="/guide-media/01KGMF7RQ2KTABVJG051PZSBNF" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ed126334731fba608848e12f1ca421773">
+      <p>
+        Select the <strong>Voicemail</strong> submenu.<br>
+        <img src="/guide-media/01KH6NE6JJDABEET9AA3H4G0S6" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="eaa080a8a9f5fd3081e1a2de86f777c98">
+      <p>
+        Click <strong>New</strong> to create a voicemail configuration.<br>
+        <img src="/guide-media/01KH6P3DXGJJ282MXCJPQY6P4H" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ea23d5419f1cb3606986d42b7b77fcf85">
+      <p>
+        Open the <strong>Extension</strong> drop-down and select the extension
+        that represents the voicemail you want to configure.<br>
+        <img src="/guide-media/01KH6P6XKYTDX87QKP2W5FY3SH" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ecfd58e1ef3250285dd55bf2e15b31009">
+      <p>
+        Enter a <strong>Password</strong> for accessing voicemail.<br>
+        <img src="/guide-media/01KH6PASJTJWQAQ6A5PMCM1S48" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="eb65910a9475721031c8448d6c1d710a2">
+          This password will be required when retrieving voicemail messages
+          from your phone.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="efdb2af4d4a291ace7f081f78733f3b4c">
+      <p>
+        Confirm the <strong>User</strong> field displays the correct user
+        associated with the selected extension.<br>
+        <img src="/guide-media/01KH6PCPQRGCGTJH1QMH8BWK6B" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ea9c72f5d513024ca63b323249da69c18">
+      <p>
+        Select the number of days to retain voicemail messages before they
+        are automatically deleted.<br>
+        <img src="/guide-media/01KH6PDKJ8KSFN9R7HQXFF268E" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e66d7268e9fbec177cd90877b55456be8">
+      <p>Record your name by choosing one of the following options:</p>
+      <ul>
+        <li data-list-item-id="e9f441200dcbd1f3dfc0b7cc9ccfebffb">
+          <p>
+            <strong>Option 1: Upload an existing recording:</strong>
+            Select <strong>Choose File</strong> to upload a prerecorded
+            audio file from your computer. The audio file must be in
+            <strong>.wav</strong> format.<br>
+            <img src="/guide-media/01KH6PFS2JS2PB2QCKSPPRSG64" width="502" height="202">&nbsp;
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="ed2abf120fecc6cd3db64688a16c1e835">
+          <strong>Option 2: Record a new message by phone:</strong> Click
+          the option to record a message using your phone. The system will
+          call your extension with instructions to record your name, which
+          will be applied automatically.<br>
+          <img src="/guide-media/01KH6PFYTCDV1B9HZQ7BFYSKK1" width="502" height="202">
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="efc857630e4d1b7dcb9235b2344f5a461">
+      <p>
+        (Optional) Record a <strong>voicemail greeting</strong> that callers
+        will hear when they reach your voicemail.
+      </p>
+      <ul>
+        <li data-list-item-id="e0b2167ee4a7e9d1981739755252374fa">
+          <p>
+            <strong>Option 1: Upload a file:</strong> Select
+            <strong>Choose File</strong> to upload a prerecorded greeting
+            in <strong>.wav</strong> format.<br>
+            <img src="/guide-media/01KH6PH04DKP3PT105593GAH54" width="502" height="202">
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="e6ab844fa377f0cbff83d30334be62161">
+          <strong>Option 2: Record live:</strong> Click the option to record
+          your greeting by phone. The system will call your extension and
+          guide you through recording the voicemail greeting.<br>
+          <img src="/guide-media/01KH6PH573RPGQVB7MF3CXX3AN" width="502" height="202">
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e8d76b43bf76f9162ee14c8862ca8171e">
+      <p>
+        (Optional) Configure a <strong>vacation message</strong> to temporarily
+        override your default greeting.
+      </p>
+      <ul>
+        <li data-list-item-id="ea1285bdbe25eaa70854efd80c92ea329">
+          <p>
+            <strong>Option 1: Upload a file:</strong> Select
+            <strong>Choose File</strong> to upload a prerecorded vacation
+            message in <strong>.wav</strong> format.<br>
+            <img src="/guide-media/01KH6PPGGQNYZDQG8GWG706GKW" width="502" height="202">
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="ebd179d44e32308ef56223f3c804edc9a">
+          <strong>Option 2: Record live:</strong> Click the option to record
+          your vacation message by phone. The system will call your extension
+          and guide you through recording the temporary greeting.<br>
+          <img src="/guide-media/01KH6PPNZ16HQRSBGYVDWREXNV" width="502" height="202">
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e4afcbc11b31c12efffbd16c60bd1b0ab">
+      <p>
+        When finished, click <strong>Save</strong> to apply your voicemail
+        settings, or click <strong>Save and Continue</strong> to save your
+        changes and configure another voicemail.<br>
+        <img src="/guide-media/01KGQ4Y2RPH8ZTHJF36AP4Z0C8" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+  </ol>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<p>
+  Your voicemail is now configured and ready to receive messages. To manage or
+  update your settings, return to the <strong>Telephony</strong> menu and select
+  <strong>Voicemail</strong> to edit your configuration. For additional support,
+  contact
+  <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+</p>

@@ -1,0 +1,164 @@
+<p>
+  <strong>Call Screening</strong> allows you to manage unwanted incoming calls
+  from specific numbers by automatically routing them to voicemail, sending a busy
+  signal, or letting them ring without answer. This feature helps reduce interruptions
+  from spam calls, telemarketers, or other unwanted contacts while ensuring legitimate
+  calls reach you. Call screening rules are managed through the Vanillasoft VoIP
+  portal and apply automatically once configured.&nbsp;
+</p>
+<p>
+  Once you create a call screening rule, incoming calls from the specified numbers
+  will be handled according to your preferences without requiring any manual intervention.
+  This ensures your phone remains accessible to important contacts while filtering
+  out unwanted callers.
+</p>
+<hr style="height: 1px; visibility: hidden;">
+<div class="accordion">
+  <p>
+    <strong>Create a Call Screening Rule</strong>
+  </p>
+</div>
+<div class="panel">
+  <ol>
+    <li data-list-item-id="e76fc13df4b1aec8a939861ea81dd123d">
+      <p>
+        Log in to the
+        <a href="https://connect.cloudli.com" target="_blank" rel="noopener noreferrer"><strong>Vanillasoft VoIP portal</strong></a>.<br>
+        <img src="/guide-media/01KG7QZRYJN8FN4MY4GVFXAHPW" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="ed6cd63cf47ce68549d97955867b17f91">
+          Note: This portal may display <strong>Cloudli</strong> branding
+          because it is hosted by Cloudli. All configuration and support
+          are handled by <strong>Vanillasoft</strong>. For assistance,
+          contact
+          <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ec44c308596503f9df1732e38929da80e">
+      <p>
+        Open the <strong>Telephony</strong> menu from the main navigation.<br>
+        <img src="/guide-media/01KGMF7RQ2KTABVJG051PZSBNF" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e55211860833829b60a98383ac2b8e522">
+      <p>
+        Select the <strong>Call Screening</strong> submenu.<br>
+        <img src="/guide-media/01KHKFNT8TMY5BHE32R4Q7TTY3" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="efdfec9361d0de629b68ef86f46dca696">
+      <p>
+        Click <strong>New</strong> to create a call screening rule.<br>
+        <img src="/guide-media/01KHKFRB2Q7CMDHK353VHEXM7E" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e5879be4dae2a5463dcc2cd6a7978c629">
+      <p>
+        Enter a description in the <strong>Justification</strong> field,
+        such as the name of the filtered person.<br>
+        <img src="/guide-media/01KHKGWYME2FJZAWNVZQFMRGNZ" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e357d89c89486ad431b481496970d2ed8">
+      <p>
+        Enter the phone number to filter in the <strong>Number</strong> field
+        using E.164 format: <strong>+###########</strong>.<br>
+        <img src="/guide-media/01KHKH31ZQA3XQZYKWAD87JEFM" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e3a16f144ecf2275911fadcd73c301e62">
+      <p>
+        Open the <strong>Action</strong> drop-down and select the desired
+        action.<br>
+        <img src="/guide-media/01KHKH5KMAQJBV4R1D70EJ3H0H" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="efec89c20a8af9885028ee9a077e1d3b3">
+          <p>
+            <strong>5 rings then Message</strong> – Allows the phone
+            to ring five times before routing the call to a message.&nbsp;
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="e798aceb3d5b72e6db02874e9e7520450">
+          <p>
+            <strong>5 rings then voicemail</strong> – Allows the phone
+            to ring five times before routing the call to voicemail.&nbsp;
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="e3eecb9cae30f3d49801fcf4ed2620625">
+          <p>
+            <strong>Busy signal</strong> – Sends a busy signal to the
+            caller immediately.&nbsp;
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="e5d6f1c83afe02b3a374b6ecc8e5aff0d">
+          <strong>Message</strong> – Routes the call directly to a message
+          without ringing.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e3a2bbf4538b62e7cc1b710db889cfbf5">
+      <p>
+        When finished, click <strong>Save</strong> to apply your Call Screening
+        rule, or click <strong>Save and Continue</strong> to save your changes
+        and configure another call screening rule.<br>
+        <img src="/guide-media/01KHKH6PAB5Q56N9KPP6J65HEJ" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+  </ol>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<div class="accordion">
+  <p>
+    <strong>Best Practices</strong>
+  </p>
+</div>
+<div class="panel">
+  <ul>
+    <li data-list-item-id="e434efb9e0189a8819906bbe1be28bee6">
+      <p>
+        Use descriptive names for call screening rules to make them easy
+        to identify and manage later.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ebbd1cb0e5eaceb1bf5ca98970df55491">
+      <p>
+        Test call screening rules with a known number to ensure they work
+        as expected before relying on them for important filtering.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ef9358932c5506a7ca9dd140c12130c73">
+      <p>
+        Review your call screening rules periodically to remove outdated
+        entries and ensure they remain relevant.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e31e2e516ce775c071db171873fbca788">
+      Choose the <strong>Voicemail/Message</strong> option if you want to keep
+      a record of blocked calls for later review.
+    </li>
+  </ul>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<p>
+  Your call screening rule is now active and will automatically handle incoming
+  calls from the specified number according to your preferences. For additional
+  support, contact
+  <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+</p>

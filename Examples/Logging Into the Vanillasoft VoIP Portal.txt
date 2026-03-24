@@ -1,0 +1,129 @@
+<p>
+  The <strong>Vanillasoft VoIP portal</strong> provides access to phone number
+  configuration, call center queue settings, emergency services setup, and other
+  telephony features. To access the portal, you'll need the login credentials provided
+  in your VoIP portal account creation email. Once logged in, you can manage your
+  VoIP settings, configure call routing, and customize your telephony experience.
+</p>
+<p>
+  This guide walks you through the login process and provides troubleshooting steps
+  if you encounter issues accessing your account.
+</p>
+<hr style="height: 1px; visibility: hidden;">
+<h3 id="h_01KKA2303Z5TDZC92RF3CRE4S8">Log In to the VoIP Portal</h3>
+<ol>
+  <li data-list-item-id="ed56e2f866618a781cff4b8e42cef98f6">
+    <p>
+      Navigate to the
+      <a href="https://connect.cloudli.com" target="_blank" rel="noopener noreferrer"><strong>Vanillasoft VoIP portal</strong></a>.<br>
+      <img src="/guide-media/01KKC1BMKNTKM5SSH4S98P53RS" width="502" height="202">
+    </p>
+    <ul>
+      <li data-list-item-id="efdf3afe674a3d8ecc2d1a72caa307e62">
+        Note: This portal may display <strong>Cloudli</strong> branding because
+        it is hosted by Cloudli. All configuration and support are handled
+        by <strong>Vanillasoft</strong>. For assistance, contact
+        <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+      </li>
+    </ul>
+    <hr style="height: 1px; visibility: hidden;">
+  </li>
+  <li data-list-item-id="e7d9b032bd3c78d9e9d10c3c64dd2823a">
+    <p>
+      Enter your <strong>email address</strong> or <strong>phone number</strong>
+      associated with your VoIP portal account in the
+      <strong>Identifier</strong> field.<br>
+      <img src="/guide-media/01KKBZNHS8G4REF0AR0306GMAE" width="502" height="202">
+    </p>
+    <hr style="height: 1px; visibility: hidden;">
+  </li>
+  <li data-list-item-id="e9b3cfce51966c93ba5eac5376b16f9fe">
+    <p>
+      Enter your <strong>Password</strong>.<br>
+      <img src="/guide-media/01KKBZSER5R6SGR2MFBJBYRXNX" width="502" height="202">
+    </p>
+    <hr style="height: 1px; visibility: hidden;">
+  </li>
+  <li data-list-item-id="e9e0af7f2ea63dcb2db87b15626d0f7cf">
+    <p>
+      Click <strong>Enter</strong>.<br>
+      <img src="/guide-media/01KKBZW1Y4VRKJSVMSCYHZV1B4" width="502" height="202">
+    </p>
+    <hr style="height: 1px; visibility: hidden;">
+  </li>
+</ol>
+<hr style="height: 1px; visibility: hidden;">
+<h3 id="h_01KKA24N7JPF6VGGXP4NZ1Z3GQ">Troubleshooting Login Issues</h3>
+<div class="accordion">
+  <p>
+    <strong>I Didn't Receive My Login Credentials</strong>
+  </p>
+</div>
+<div class="panel">
+  <p>
+    When your VoIP portal account is created, you will receive an email containing
+    your login credentials. If you didn't receive this email or are unsure of
+    your username:
+  </p>
+  <ol>
+    <li data-list-item-id="e4a03d64ae754ab8b39e51662d6a22355">
+      <p>
+        Click <strong>Forgot your Password?</strong> on the login page.<br>
+        <img src="/guide-media/01KKBZXQHNK47PS395Z14TJJ8W" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e7779e2a341f7398562d27b09b307aa84">
+      <p>
+        Enter your <strong>email address</strong> in the
+        <strong>Identifier</strong> field.<br>
+        <img src="/guide-media/01KKC01TXJ12MESYPD50F1QH3H" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ea6347887f892f409769c207d4461b2d2">
+      <p>
+        Click <strong>Next</strong>.<br>
+        <img src="/guide-media/01KKC03K4YR032BB0QYP78SGFK" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+      <p>
+        Check your email for instructions to reset your password and log
+        in.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+  </ol>
+</div>
+<div class="accordion">
+  <p>
+    <strong>I Forgot My Password</strong>
+  </p>
+</div>
+<div class="panel">
+  <p>
+    If you know your username but have forgotten your password, refer to the
+    <a href="https://vanillasoft.zendesk.com/hc/en-us/articles/46638529599771" target="_blank" rel="noopener noreferrer">Resetting Your Vanillasoft VoIP Portal Password</a>
+    article for step-by-step instructions.
+  </p>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<div class="accordion">
+  <p>
+    <strong>I'm Still Unable to Log In</strong>
+  </p>
+</div>
+<div class="panel">
+  <p>
+    If you continue to experience issues logging into the Vanillasoft VoIP portal
+    after following the troubleshooting steps above, contact
+    <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>
+    for assistance.
+  </p>
+</div>
+<hr style="height: 1px; visibility: hidden;">
+<p>
+  You are now ready to access and configure your Vanillasoft VoIP settings through
+  the portal. For additional support, contact
+  <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+</p>

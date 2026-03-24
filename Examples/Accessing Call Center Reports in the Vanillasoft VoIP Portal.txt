@@ -1,0 +1,243 @@
+<p>
+  <strong>Call Center Reports</strong> in the Vanillasoft VoIP portal provide detailed
+  insights into queue performance, agent activity, and call metrics. These reports
+  help you analyze contact center operations, measure individual performance, track
+  abandoned calls, and identify trends in call volume and wait times. By reviewing
+  call center reports regularly, you can optimize staffing, improve service levels,
+  and ensure your team meets performance targets.
+</p>
+<p>
+  Reports are accessed through the Vanillasoft VoIP portal and can be filtered
+  by date range, agent, or queue. Once generated, reports can be exported or printed
+  for further analysis or record-keeping.
+</p>
+<hr style="height: 1px; visibility: hidden;">
+<div class="accordion">
+  <p>
+    <strong>Access Call Center Reports</strong>
+  </p>
+</div>
+<div class="panel">
+  <ol>
+    <li data-list-item-id="e21394fbe1cc5aca143ddf5275237c3e4">
+      <p>
+        Log in to the
+        <a href="https://connect.cloudli.com" target="_blank" rel="noopener noreferrer"><strong>Vanillasoft VoIP portal</strong></a>.<br>
+        <img src="/guide-media/01KG7QZRYJN8FN4MY4GVFXAHPW" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="ed05e4702e21a48f0b44eed378dae5585">
+          Note: This portal may display <strong>Cloudli</strong> branding
+          because it is hosted by Cloudli. All configuration and support
+          are handled by <strong>Vanillasoft</strong>. For assistance,
+          contact
+          <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e97c6a274710c08fd44d375264088c72c">
+      <p>
+        Click <strong>Reports</strong> from the main navigation.<br>
+        <img src="/guide-media/01KHBSB4YSGN1WT484CR7ET1ZW" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ee889e8b148c521dc3a00f1d0f0044f39">
+      <p>
+        Click <strong>Contact Center</strong>.<br>
+        <img src="/guide-media/01KHKQT2JDRKNFZ8TTWWHRXCY9" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ef9db5d120ed4a57d503b40d98285e63f">
+      <p>
+        Select the type of report you want to run from the list of available
+        call center reports.<br>
+        <img src="/guide-media/01KHKRT7ZQQWWTZEW00AD5M35B" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ebd3c15d6c5a66e74f0291a13bf9f2652">
+      <p>
+        Select a <strong>Start</strong> and <strong>End</strong> time to
+        define the date range for the report, along with any other desired
+        options available based on the report type you've selected.<br>
+        <img src="/guide-media/01KHKT2A1QR6XC09TDWMKSA8H4" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ed83b6ea0c3750cbca91cbc6eced15635">
+      <p>
+        The report information will display at the bottom of the page. Click
+        <strong>Export</strong> to save the report as a .CSV file, or click
+        <strong>Print</strong> to print the report.<br>
+        <img src="/guide-media/01KHKTCPNEXRHMFPE751F7D5DD" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+  </ol>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<div class="accordion">
+  <p>
+    <strong>Available Call Center Reports</strong>
+  </p>
+</div>
+<div class="panel">
+  <p>
+    The following call center reports are available in the Vanillasoft VoIP portal.
+    These reports help you analyze contact center performance and individual
+    agent activity:
+  </p>
+  <ul>
+    <li data-list-item-id="ead8f02fbdd0b99689fb14ecda403817a">
+      <p>
+        <strong>Abandoned Calls</strong>: This report shows all calls that
+        were abandoned in the queue, including the time the call came in,
+        time it abandoned, which queue, client name, and phone number. You
+        can select a date range to run this report.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="eade99e79e826e2e13eebe9ead3cb6921">
+      <p>
+        <strong>Agents-Performance</strong>: This report provides detailed
+        insights into individual performance, including inbound/outbound
+        calls, abandoned calls, average talk time, and longest talk time.
+        You can export or print the report once it has been generated.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e49ea9e5208c145d984601d20ba524695">
+      <p>
+        <strong>Agents-Status Log</strong>: This report shows individual
+        instances when an agent selected a status. You can use the date range
+        filter to view the agent's name, start and stop time of the status,
+        status selected, and duration. This is a helpful tool to ensure productivity
+        and scheduling compliance.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e0dcd6166209a11f94e83d7f94e95309e">
+      <p>
+        <strong>Agents-Status Summary</strong>: Similar to the Agents-Status
+        Log, this report provides a quick view of the total duration of time
+        spent in each status.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e41e4e528e4194ec5c415aa3e92d95161">
+      <p>
+        <strong>Callback Failed</strong>: This report shows which calls did
+        not trigger a callback based on your call center configuration. For
+        this report to work, you must ensure that the callback feature is
+        enabled.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e23f82826723aa9e56b23df277c8122b8">
+      <p>
+        <strong>Calls to Voicemail</strong>: This report shows which calls
+        were not answered in the queue based on your configured max wait
+        times. If your call center has a voicemail fallback, this is where
+        you will see a list of callers who left a voicemail to be followed
+        up on.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e78a52a04df838a899a0d45fa738201be">
+      <p>
+        <strong>Limit Waiting Time Exceeded</strong>: This report shows which
+        calls waited in the queue the longest beyond the set wait times.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e26cc9679060c0f7f9229b9b55c13e09d">
+      <p>
+        <strong>On Hold Less 30 Seconds</strong>: This report shows which
+        calls were answered under 30 seconds and which agent answered the
+        call.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e81c1b48afc3a22161212f7d5949cb58d">
+      <p>
+        <strong>On Hold More 30 Seconds</strong>: This report shows which
+        calls were answered above the 30 second threshold and which agent
+        answered the call.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ea29b2324f67f7d9132e96701beab5031">
+      <p>
+        <strong>Queue-Performance</strong>: This report provides an overview
+        of all your queues with total calls, average wait time, abandoned
+        calls, and average handle time (AHT). It also calculates what percentages
+        of calls were answered, abandoned, and went to voicemail.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e7c05efe3ee74aea3b423e04509737dfe">
+      <p>
+        <strong>Unanswered Calls</strong>: This report shows which calls
+        were not answered. This is based on a call being offered to an agent
+        and queue that went unanswered.&nbsp;
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e8333ba8314129c6406e07142c787b41f">
+      <strong>Usage</strong>: You can use this report to drill down by hour
+      your call queue traffic.
+    </li>
+  </ul>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<div class="accordion">
+  <p>
+    <strong>Best Practices</strong>
+  </p>
+</div>
+<div class="panel">
+  <ul>
+    <li data-list-item-id="e7fa1e81259ce01db987e943817ed5aa8">
+      <p>
+        Review call center reports regularly to identify trends in call volume,
+        wait times, and agent performance.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e2c39da879c07590bf2dd49545057ce22">
+      <p>
+        Use the Agents-Status Log and Agents-Status Summary reports to ensure
+        agents are following scheduling and productivity guidelines.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e8f0c623192b0b4e97c3a8a682b480426">
+      <p>
+        Export or print reports for record-keeping, performance reviews,
+        or sharing with stakeholders.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e3189b3e0eae3f76c542901d25771215f">
+      <p>
+        Use the Queue-Performance report to optimize staffing levels and
+        reduce abandoned call rates.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e1b061e9d83c54afaf6883b9510e6fa11">
+      Review the Calls to Voicemail report regularly to ensure follow-up on
+      missed calls and maintain customer satisfaction.
+    </li>
+  </ul>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<p>
+  Call center reports provide valuable insights into contact center performance
+  and help you make data-driven decisions. For additional support or questions
+  about specific reports, contact
+  <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+</p>

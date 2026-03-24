@@ -1,0 +1,459 @@
+<p>
+  <strong>Call Forwarding</strong> in Call Manager allows you to automatically
+  redirect incoming calls to another phone number, such as a mobile phone, another
+  extension, or an external line. This ensures you never miss important calls when
+  you're away from your primary device. By configuring call forwarding rules, you
+  can maintain seamless communication with customers and colleagues whether you're
+  working remotely, on vacation, or simply away from your desk.
+</p>
+<p>
+  Call Manager offers two methods for setting up call forwarding:
+  <strong>Schedule-based forwarding</strong> for recurring patterns (such as after-hours
+  or regular work schedules) and <strong>Status-based forwarding</strong> for temporary
+  situations (such as vacations or short absences). This guide walks you through
+  both approaches so you can choose the method that best fits your needs.
+</p>
+<hr style="height: 1px; visibility: hidden;">
+<div class="accordion">
+  <p>
+    <strong>Configure Call Forwarding Based on Schedule</strong>
+  </p>
+</div>
+<div class="panel">
+  <p>
+    Schedule-based call forwarding is ideal for recurring patterns, such as forwarding
+    calls after business hours or during specific times of the week.
+  </p>
+  <hr style="height: 1px; visibility: hidden;">
+  <ol>
+    <li data-list-item-id="e932930b1b6b1f5d8de56cd94969b1b85">
+      <p>
+        Log in to the
+        <a href="https://connect.cloudli.com" target="_blank" rel="noopener noreferrer"><strong>Vanillasoft VoIP portal</strong></a>.<br>
+        <img src="/guide-media/01KG7QZRYJN8FN4MY4GVFXAHPW" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e40e76fa7282c18f7167d16d6eb7c607d">
+          Note: This portal may display <strong>Cloudli</strong> branding
+          because it is hosted by Cloudli. All configuration and support
+          are handled by <strong>Vanillasoft</strong>. For assistance,
+          contact
+          <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e6d39a81d2bd759318e05204ff28e14a3">
+      <p>
+        Click the <strong>Call Manager</strong> launch box from the main
+        page.<br>
+        <img src="/guide-media/01KKH5BYVJ6CXVFKQWWFAKJQDZ" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e30b70981fbe2eb35a43f6072534cdacd">
+      <p>
+        Click <strong>New</strong> in the
+        <strong>Call Forwarding on Schedule</strong> section.<br>
+        <img src="/guide-media/01KKH5D9EA36E472GQNT0FMNT7" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="eb050c0d8e2634c36a09188da7874f494">
+      <p>
+        Enter a descriptive title for your call forwarding schedule (e.g.,
+        "After Hours Call Forwarding" or "Vacation Call Forwarding").<br>
+        <img src="/guide-media/01KKH5SM3T8T7D2GXGVBNNB2S3" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e404f79beb966a340a6014b808939c8a1">
+      <p>
+        Select the <strong>Schedule Type</strong>.<br>
+        <img src="/guide-media/01KKH5RENSCHWVGAV21R7BZAEC" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="ef5ff446ae251474279992ad2267a9d99">
+          <p>
+            <strong>All the time:</strong> Forwards calls without exceptions.&nbsp;
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="e1812dbd7b82579d57b4c1da70c82fcdc">
+          <strong>Custom time:</strong> Allows you to set specific days
+          and times when call forwarding should be active. Recommended
+          for most use cases.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e19e48646c1f871635e42d216447db986">
+      <p>
+        If you selected <strong>Custom time</strong>, click the
+        <strong>plus sign (+)</strong> to add a schedule line.<br>
+        <img src="/guide-media/01KKH5VQYZHXP4QTQ1QPS85DNN" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e3ef89b52b34991906b884d8fe827aa20">
+      <p>
+        Select the days when call forwarding should be active from the drop-down.<br>
+        <img src="/guide-media/01KKH5X0A0AQR49C4G4R5D9SME" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="ea30c2d604bd8d79bd307a0807566481a">
+          <p>
+            <strong>Weekday except public holidays:</strong> Use for
+            static schedules (e.g., Monday-Friday, 9 AM-5 PM).&nbsp;
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="ef9f6b3629d7ab86e17b31e8e01f828d8">
+          <strong>Specific days of the week:</strong> Use for dynamic schedules
+          where start and end times vary by day.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e50a91afb73bf63cd91fd93a7996f8121">
+      <p>
+        Set the time parameters by selecting the <strong>From</strong> and
+        <strong>To</strong> times from the drop-downs.<br>
+        <img src="/guide-media/01KKH60NTE2V9Y0TETNGZWKN0H" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e588f5b370014cd82a53cc9704dbd70d4">
+      <p>
+        Check the <strong>Active</strong> box to ensure the rule is applied.<br>
+        <img src="/guide-media/01KKH6404T3BJHKX8RDCFH9DW0" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="eafa13254a60361c6153f39079b73e077">
+      <p>
+        Open the <strong>Action</strong> drop-down and select
+        <strong>Call Number</strong> to forward calls to another destination
+        (such as a cell phone).<br>
+        <img src="/guide-media/01KKH66R765B74V0C5JY4AB747" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ec23d831b2b76de6d7cd44df243cfa536">
+      <p>
+        Enter the destination phone number in the <strong>Number</strong>
+        field.<br>
+        <img src="/guide-media/01KKH6E9BMB6HBS7TQ5HYVWNA3" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ed7904498ee67eb2b88e02d77f32aef9f">
+      <p>
+        Enter the ring time (in seconds) in the <strong>Ring Time</strong>
+        field.<br>
+        <img src="/guide-media/01KKH6KEH7ZR99W6CDJ23HHW3E" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e03f6d1fe231b7747cf9b6e024e3a2a50">
+      <p>
+        Select your extension in the <strong>Destination</strong> field.<br>
+        <img src="/guide-media/01KKH6NHHNZGRSVR6JM0N19N8Y" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e54468a4470bc869289bf12bf93d47c9b">
+          This ensures that if the forwarded call is not answered, it will
+          be sent to your extension voicemail instead of the destination's
+          voicemail.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="eaecee02fcbbf8a149d2c4914614b4c81">
+      <p>
+        Set the ring time for your extension. Since the call was already
+        routed to another destination, it's recommended to use a shorter
+        ring time.<br>
+        <img src="/guide-media/01KKH6YRRWQ56225Z7N3FDVJ0G" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e0ae29a890a616bb11b23998a6bde91ee">
+      <p>
+        Select your extension in the <strong>Voicemail</strong> field as
+        the destination for voicemail messages.<br>
+        <img src="/guide-media/01KKH7012GNYV6W8TK84XHG749" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ea62008955b2fa38a359d2777c73b51cc">
+      <p>
+        (Optional) Check the <strong>Welcome Message</strong> checkbox.<br>
+        <img src="/guide-media/01KKH8BQ1NVBZWY2VVEAERK3Y3" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e9765f9e20efafcd0a6823f2b8a922d77">
+          Callers will be informed that the call is being forwarded and
+          will hear music on hold instead of ringing.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ed9c76dd7ebc5319030d44cdb3d843019">
+      <p>
+        (Optional) Select any additional destinations from the
+        <strong>Other Destinations</strong> section.<br>
+        <img src="/guide-media/01KKH8D34GXFCSEYQJW5VPMP9C" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="ef17705cf3ee66f7db5066c0e0c42870e">
+          <strong>Note:</strong> Calls routed to these extensions will
+          NOT consider their associated call forwarding configuration.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ec84930473171166cb7da2090c0cfa4f2">
+      <p>
+        (Optional) Enter any additional extensions or numbers to use as another
+        destination.<br>
+        <img src="/guide-media/01KKH8F1E4Q7Q45SCW8KKHWSFN" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e4ff55d6df527c1439952e5a9f2677fa0">
+          <strong>Note:</strong> Calls routed to these destinations will
+          take into account the Call Manager configuration. If the call
+          is forwarded by the Call Manager configuration and would then
+          be forwarded again by the forward target Call Manager configuration,
+          the call will be cancelled.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e435fdfbeb994674d1857aacb8bb072e6">
+      Click <strong>Save</strong> to complete your call forwarding configuration.<br>
+      <img src="/guide-media/01KKH8G9BS2DJCC497WGDYWVXJ" width="502" height="202">
+    </li>
+  </ol>
+  <hr style="height: 1px; visibility: hidden;">
+  <p>
+    Your schedule-based call forwarding is now active and will appear on the
+    main Call Manager page.
+  </p>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<div class="accordion">
+  <p>
+    <strong>Configure Call Forwarding Based on Status</strong>
+  </p>
+</div>
+<div class="panel">
+  <p>
+    Status-based call forwarding is ideal for temporary situations, such as vacations
+    or short absences.
+  </p>
+  <hr style="height: 1px; visibility: hidden;">
+  <ol>
+    <li data-list-item-id="e0c48b49736aa433234a23f5f89367689">
+      <p>
+        From the Call Manager main page, click <strong>New</strong> under
+        <strong>Call Forwarding on Status</strong>.<br>
+        <img src="/guide-media/01KKH8JQBD47NN48XDE5MKAXQ9" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ec0beed439fa2acdebbb804715bdd5adf">
+      <p>
+        Enter a descriptive title for your configuration (e.g., "Vacation
+        Call Forwarding").<br>
+        <img src="/guide-media/01KKH8MMT2959VVH1VV61J9BN0" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e35636568c6a02a4f3467ae7c4eb86435">
+      <p>
+        Select <strong>Vacation </strong>the <strong>Status</strong> to list.<br>
+        <img src="/guide-media/01KKH90026SBXR90W7PZEQ3DTN" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e11a67a798472460c049dbfcf30f9d20e">
+      <p>
+        Select <strong>Call Voicemail</strong> from the <strong>Action</strong>
+        drop-down.<br>
+        <img src="/guide-media/01KKH8X0521468CXTZDXR5ARK9" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="ee2db88eb13d8d6672e081feaaf93ce1c">
+          <p>
+            <strong>Call Number:</strong> Forward calls to another phone
+            number. If selected, follow steps 11-15 from the Schedule-based
+            configuration above.&nbsp;
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="e350498fb2410dd6e8ac47d700553b2bf">
+          <strong>Call Voicemail:</strong> Send calls directly to your
+          extension voicemail. Continue with the steps below.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="eeccee85889e0b25bd939ab94b48ff15c">
+      <p>
+        Select your extension from the <strong>Voicemail</strong> drop-down.<br>
+        <img src="/guide-media/01KKH920JMXPX2MWGEF501TXGQ" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e4eb973442726ab519b2e093694fb63f9">
+      <p>
+        Select which number and extension to call in the
+        <strong>Destinations</strong> list.<br>
+        <img src="/guide-media/01KKH95NXPJ90A42KHV1HZ3A9R" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e7f0ec3d86a3e52061cdc7a5151c0feb3">
+      <p>
+        Open the <strong>Ringing Time</strong> drop-down and select the ring
+        time (in seconds).<br>
+        <img src="/guide-media/01KKH98GNHWEA76RKPFY3CEXT9" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ed87f96df740ac9ae93d6acb7de4863bd">
+      <p>
+        Select your extension from the <strong>Voicemail</strong> drop-down.<br>
+        <img src="/guide-media/01KKH9AZ62PN13QSYC739BW02T" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e95b5136f2bdb34cd242a3a4dba51df55">
+      <p>
+        (Optional) Check the <strong>Welcome Message</strong> checkbox.<br>
+        <img src="/guide-media/01KKH8BQ1NVBZWY2VVEAERK3Y3" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e1388fb4b114288ffd4b74b0b79b50dec">
+          Callers will be informed that the call is being forwarded and
+          will hear music on hold instead of ringing.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e524091a77b1ff69c158401d536e6d759">
+      <p>
+        (Optional) Select any additional destinations from the
+        <strong>Other Destinations</strong> section.<br>
+        <img src="/guide-media/01KKH8D34GXFCSEYQJW5VPMP9C" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e053c056c1be3a5dc3521be5ef747b644">
+          <strong>Note:</strong> Calls routed to these extensions will
+          NOT consider their associated call forwarding configuration.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e4084ae95760ea0d0f0e2acaa6a392d16">
+      <p>
+        (Optional) Enter any additional extensions or numbers to use as another
+        destination.<br>
+        <img src="/guide-media/01KKH8F1E4Q7Q45SCW8KKHWSFN" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e90f865516819dc33da7bf5e0e4367e00">
+          <strong>Note:</strong> Calls routed to these destinations will
+          take into account the Call Manager configuration. If the call
+          is forwarded by the Call Manager configuration and would then
+          be forwarded again by the forward target Call Manager configuration,
+          the call will be cancelled.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e46b8374452b43b9305102d61377efb1e">
+      <p>
+        Click <strong>Save</strong> to finish the configuration on this page,
+        and move to the next step.<br>
+        <img src="/guide-media/01KKH9G6CBBT0A9TK8KNE5YFBY" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e9c6e5400977da4e8ee337a8cbd504bcc">
+      <p>
+        In the <strong>Notes for Receptionist</strong> section, enter "On
+        Vacation" and specify your start and end dates.<br>
+        <img src="/guide-media/01KKH9YJ56XYG9F73YS7D4JB3E" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e63de647e68fd44f5e6ffaaa28c648b18">
+      <p>
+        Select your vacation date and time range using the calendar.<br>
+        <img src="/guide-media/01KKH9TRYKAH5FFHCATG32EKBT" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e541ac6a34e287ab7dbbcf3fe91e2e092">
+      Click <strong>Save</strong> to complete your configuration.<br>
+      <img src="/guide-media/01KKH9V7NQ6PJ0DKJZFD3GZM12" width="502" height="202">
+    </li>
+  </ol>
+  <hr style="height: 1px; visibility: hidden;">
+  <p>
+    Your status-based call forwarding is now active and will appear on the main
+    Call Manager page.
+  </p>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<div class="accordion">
+  <p>
+    <strong>Best Practices</strong>
+  </p>
+</div>
+<div class="panel">
+  <ul>
+    <li data-list-item-id="e4c8a66c449e1dbacd68ec7c339bb58b8">
+      <p>
+        Use <strong>Schedule-based forwarding</strong> for recurring patterns
+        like after-hours or regular work schedules.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ec75a7a3bf88052b9e0bae752eecf1548">
+      <p>
+        Use <strong>Status-based forwarding</strong> for temporary situations
+        like vacations or short absences.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e286a69e3b14d70e64414e5cca3d3ae35">
+      <p>
+        Always set your extension as the final destination to ensure voicemails
+        are left in your mailbox, not the forwarded number's mailbox.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e392acdb79636e1787790337bd73bdfc1">
+      <p>
+        Use shorter ring times for the second destination (your extension)
+        since the call has already attempted to reach you at the forwarded
+        number.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="edc66f1131a978b67be52940bc94c9c6e">
+      Review and update your call forwarding rules regularly to ensure they
+      remain accurate and relevant.
+    </li>
+  </ul>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<p>
+  Your call forwarding is now configured in Call Manager. Calls will be automatically
+  routed according to your preferences, ensuring you never miss important communications.
+  For additional support, contact
+  <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+</p>

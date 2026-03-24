@@ -1,0 +1,193 @@
+<p>
+  Auto attendants in <strong>Vanillasoft VoIP</strong> help route inbound calls
+  automatically using a menu of options. This reduces manual call handling and
+  helps callers reach the right destination faster, with a more consistent experience.
+</p>
+<p>
+  This article explains how to create an auto attendant menu in the
+  <strong>Vanillasoft VoIP portal</strong>, including assigning an extension, configuring
+  menu behavior, and setting up call routing.
+</p>
+<div class="accordion">
+  <p>
+    <strong>Create an Auto Attendant</strong>
+  </p>
+</div>
+<div class="panel">
+  <ol>
+    <li data-list-item-id="ee6e8c8632c02bad3afe239d95dfb9062">
+      <p>
+        Log in to the
+        <a href="https://connect.cloudli.com" target="_blank" rel="noopener noreferrer"><strong>Vanillasoft VoIP portal</strong></a>.<br>
+        <img src="/guide-media/01KG7QZRYJN8FN4MY4GVFXAHPW" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="ed070c9bd39f3d776bb3a8b0a9d241597">
+          Note: This portal may display <strong>Cloudli</strong> branding
+          because it is hosted by Cloudli. All configuration and support
+          are handled by <strong>Vanillasoft</strong>. For assistance,
+          contact
+          <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ea289dcd1057eb8b0896072ace732c9ad">
+      <p>
+        Open the <strong>Telephony</strong> menu from the main navigation.<br>
+        <img src="/guide-media/01KGMF7RQ2KTABVJG051PZSBNF" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e3afd8e39f734b0534e96ff1a984a0401">
+      <p>
+        Select the <strong>Menus – Components</strong> section.<br>
+        <img src="/guide-media/01KG7RQT9HFPX4D1552QTQGY1N" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e2a07d77b1862ddeeb10dcfdba43fe984">
+      <p>
+        Click <strong>New</strong> to create a new menu.<br>
+        <img src="/guide-media/01KG7SE01GMGV0DMBF6YZZVGZG" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e63465eed0f2a28803fe4b3794b06049b">
+      <p>
+        Enter a clear, descriptive <strong>name</strong> for the auto attendant.
+        This name is used internally for identification.<br>
+        <img src="/guide-media/01KG7T0HXA39HR8PT561373KJ0" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e6872b50a52ee084320de995d057c5fac">
+      <p>
+        Open the <strong>Number</strong> dropdown and select the extension
+        to assign to the auto attendant.<br>
+        <img src="/guide-media/01KG7T6X9711V679Q1AFZFTAF3" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ec5b2f9d8888eb156f47442f26865bdd1">
+      <p>
+        Open the <strong>Action</strong> dropdown and select
+        <strong>Automated Attendant / Interactive Voice Response</strong>.<br>
+        <img src="/guide-media/01KG7T8DCR5VRV08MZ32Q7Q01T" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e29662ea64a8be3d4b3446285d46870a4">
+      <p>
+        Configure the auto attendant options that appear after selecting
+        <strong>Automated Attendant / Interactive Voice Response</strong>.<br>
+        <img src="/guide-media/01KGFRJ5V3A6AG3HS47H9BW3NH" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e785c77c4206fb3fe25ac317d3a4d3b2b">
+          <strong>Timeout:</strong> Number of seconds a caller has to enter
+          a digit.
+        </li>
+        <li data-list-item-id="ee36ed2679b22c0e12bb7b18e5895d2ae">
+          <strong>Error message:</strong> Message played when an invalid
+          digit is entered.
+        </li>
+        <li data-list-item-id="e4eec66c478d99ae29ec760dbc6613fba">
+          <strong>Number of errors before hangup:</strong> How many invalid
+          attempts are allowed before disconnecting the call.
+        </li>
+        <li data-list-item-id="e81e6a5fe77a884fd1b7696f2718f0ff0">
+          <strong>Error message before hangup:</strong> Optional message
+          played before the call is disconnected due to errors.
+        </li>
+        <li data-list-item-id="eb2ee95ca10963ae18bccf912b4e0d692">
+          <strong>Extension if no valid entry:</strong> Extension to route
+          the caller to if they press an unused key.
+        </li>
+        <li data-list-item-id="e83661a8225056b1ffecd038541a3aa12">
+          <strong>Direct dial to extensions:</strong> Allow callers to
+          dial extensions directly.
+        </li>
+        <li data-list-item-id="ea4d5cc90c0b8fc8f7dca229270eda376">
+          <strong>Direct dial to group extensions:</strong> Allow direct
+          dialing to hunt groups.
+        </li>
+        <li data-list-item-id="e56b1fe23fa21bfa2266774b8997d582c">
+          <strong>Direct dial – Quick queue:</strong> Allow callers to
+          dial directly into queues.
+        </li>
+        <li data-list-item-id="eb5e51f60a834b1dbe63e6cc8e8ac16da">
+          <strong>Direct dial to conferences:</strong> Allow direct access
+          to conference bridges.
+        </li>
+        <li data-list-item-id="ea1b945c0803a9c4aff3c7c05f66d4a6f">
+          <strong>Direct dial to menu components:</strong> Allow navigation
+          to other menu components.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e97111a23001da6d1d7bcc411d6d35956">
+      <p>
+        Click <strong>Add</strong> to create a menu option.&nbsp;<br>
+        <img src="/guide-media/01KGFRQBMGJFQT98Q62C1NZE64" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e06ec187f9c8e15118a2cb666683ba85a">
+      <p>
+        Select the prompt callers will hear from the <strong>Prompt</strong>
+        drop-down. If no prompts are available, create one before continuing.<br>
+        <img src="/guide-media/01KGFWRK35TAYHWX4DVK8TDJC0" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e738ab785bef955c25083894b7be94c94">
+          See
+          <a href="https://support.vanillasoft.com/hc/en-us/articles/46216257165339" target="_blank" rel="noopener noreferrer">Create a Voice Prompt in Vanillasoft VoIP</a>
+          for steps on creating a new prompt.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e28c551e9bde55d9b277683fccdb291e8">
+      <p>
+        Select the digit callers will press from the <strong>Number</strong>
+        drop-down.<br>
+        <img src="/guide-media/01KGFWQXM9MAFKZ0DJ1DRB991F" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e7c9334c5ff9f6e58ab40e691ee695ec9">
+      <p>
+        Select the <strong>Action</strong> you want to trigger for the selected
+        digit, then complete any additional fields required for that action
+        (such as extension, ring duration, or destination). Repeat for each
+        option you want to include.<br>
+        <img src="/guide-media/01KGFWS4NG8Q8M69FA0HTET9H3" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e508e90d702e1507c6e2d5d4717626f5f">
+      <p>
+        Repeat steps <strong>9–12</strong> to add each additional menu option.
+        When finished, click <strong>Save</strong> to apply the auto attendant,
+        or click <strong>Save and Continue</strong> to save your changes
+        and begin building another auto attendant.<br>
+        <img src="/guide-media/01KGFY61167DCGKZ32DP3P3YBT" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+  </ol>
+  <p>&nbsp;</p>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<p>
+  After saving, test the auto attendant by calling the assigned number and confirming
+  that each menu option routes callers as expected.
+</p>
+<p>
+  Once confirmed, your auto attendant is fully configured and ready to handle inbound
+  calls. Incoming callers will now be routed automatically based on the options
+  you defined, helping reduce manual transfers and improve the overall calling
+  experience.
+</p>

@@ -1,0 +1,163 @@
+<p>
+  <strong>Call Statistics</strong> reports provide a summary of call activity for
+  your team and agents, including totals for inbound and outbound calls, call duration,
+  and average time spent on calls. These reports help you analyze calling patterns,
+  measure team productivity, and identify trends in call volume over specific date
+  ranges. By reviewing call statistics regularly, you can make informed decisions
+  about staffing, training, and resource allocation.
+</p>
+<p>
+  Call statistics reports are generated through the Vanillasoft VoIP portal and
+  can be printed or reviewed on-screen for further analysis.
+</p>
+<hr style="height: 1px; visibility: hidden;">
+<div class="accordion">
+  <p>
+    <strong>Generate a Call Statistics Report</strong>
+  </p>
+</div>
+<div class="panel">
+  <ol>
+    <li data-list-item-id="e74b76abea56fb97564cd8dcce884e728">
+      <p>
+        Log in to the
+        <a href="https://connect.cloudli.com" target="_blank" rel="noopener noreferrer"><strong>Vanillasoft VoIP portal</strong></a>.<br>
+        <img src="/guide-media/01KG7QZRYJN8FN4MY4GVFXAHPW" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="ea196a4f01963aa869073a2aa8cddfb2c">
+          Note: This portal may display <strong>Cloudli</strong> branding
+          because it is hosted by Cloudli. All configuration and support
+          are handled by <strong>Vanillasoft</strong>. For assistance,
+          contact
+          <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e0f2e65a3fcef0da9bc5298fc7fee3369">
+      <p>
+        Click <strong>Reports</strong> from the main navigation.<br>
+        <img src="/guide-media/01KHBSB4YSGN1WT484CR7ET1ZW" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e2b0d242de0b11b599dd548093b0bb604">
+      <p>
+        Open the <strong>Call Log</strong> menu.<br>
+        <img src="/guide-media/01KHV9STBKZPYF5GDX9CKER3X5" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e0646e310d4bcdb5aa0fedb4ac4099087">
+      <p>
+        Select the <strong>Call Statistics</strong> submenu.<br>
+        <img src="/guide-media/01KHV9R2YPKFW5PDF16Q1NVDA9" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e7203ab412b32df59da0f3e8ea188d540">
+      <p>
+        Open the <strong>Start</strong> drop-down to select the date you
+        want to run the report for.<br>
+        <img src="/guide-media/01KHV9Y7KVWF2JVJDM76CD68SR" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="eaa14e5315fe0a09615fea4d46cc7db19">
+      <p>
+        Click <strong>Generate</strong>.<br>
+        <img src="/guide-media/01KHVA0N24037JAY2541D6TQV7" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e5f00a965a1ca78d91b048d89f4ababb7">
+      <p>
+        The report will generate at the bottom of the screen. You can review
+        the report on-screen or click <strong>Print</strong> to print the
+        report.<br>
+        <img src="/guide-media/01KHY8TXYE5SEE3CM96KXHD1DS" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+  </ol>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<div class="accordion">
+  <p>
+    <strong>Understanding Your Call Statistics Report</strong>
+  </p>
+</div>
+<div class="panel">
+  <p>
+    The Call Statistics report displays the following information:
+  </p>
+  <ul>
+    <li data-list-item-id="efce0b81609aa123eee761e07eeb15c72">
+      <p>
+        <strong>Inbound Calls</strong> – Total number of incoming calls received
+        during the selected date range.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e210559116bfd93f491f9c9b2918e852b">
+      <p>
+        <strong>Outbound Calls</strong> – Total number of outgoing calls
+        made during the selected date range.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e55f9be52463f3b238d4117e18d32e676">
+      <p>
+        <strong>Duration</strong> – Total time spent on calls, displayed
+        for both inbound and outbound activity.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="eddd696d478fea77b51549352e0128d59">
+      <strong>Average Call Time</strong> – Average duration of calls, helping
+      you identify trends in call length and efficiency.
+    </li>
+  </ul>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<div class="accordion">
+  <p>
+    <strong>Best Practices</strong>
+  </p>
+</div>
+<div class="panel">
+  <ul>
+    <li data-list-item-id="ecf1004e29fc8c99a80da4a0c1a7ae079">
+      <p>
+        Run call statistics reports regularly to track team performance and
+        identify trends in call volume.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ef7c2a9c59d62547afa56a465b627c05a">
+      <p>
+        Use date ranges that align with your reporting periods (weekly, monthly,
+        quarterly) for consistent analysis.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e5db6b2e3220daafd5b11a9b1da33ce4c">
+      <p>
+        Compare call statistics across different date ranges to identify
+        seasonal patterns or changes in call activity.
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e7ff2c9f4147549cff7fffa8e4bf707b5">
+      Print or save reports for record-keeping, performance reviews, or sharing
+      with stakeholders.
+    </li>
+  </ul>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<p>
+  Call statistics reports provide valuable insights into team performance and calling
+  patterns. For additional support or questions about call statistics, contact
+  <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+</p>

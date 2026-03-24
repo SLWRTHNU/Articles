@@ -1,0 +1,153 @@
+<p>
+  <strong>VMDrop</strong> in <strong>Vanillasoft VoIP</strong> allows callers to
+  leave a prerecorded voicemail message without waiting for a call to reach a contact's
+  voicemail, or manually recording the message live. When a call reaches a contact’s
+  voicemail, VMDrop delivers the saved message automatically, allowing the caller
+  to move on to the next call with minimal interruption.
+</p>
+<p>
+  VMDrop mailboxes are created and managed within the
+  <strong>Vanillasoft VoIP portal</strong>. Once configured, VMDrop can be triggered
+  directly from the Vanillasoft dialing screen, where the system sends the prerecorded
+  message to the contact’s voicemail and then disconnects the call automatically,
+  confirming successful delivery.
+</p>
+<div class="accordion">
+  <p>
+    <strong>Create a VMDrop</strong>
+  </p>
+</div>
+<div class="panel">
+  <ol>
+    <li data-list-item-id="e93d64914f6c7df3e53476a13e314ee7f">
+      <p>
+        Log in to the
+        <a href="https://connect.cloudli.com" target="_blank" rel="noopener noreferrer"><strong>Vanillasoft VoIP portal</strong></a>.<br>
+        <img src="/guide-media/01KG7QZRYJN8FN4MY4GVFXAHPW" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e3c981be0f53f14e0470385392ea011fe">
+          Note: This portal may display <strong>Cloudli</strong> branding
+          because it is hosted by Cloudli. All configuration and support
+          are handled by <strong>Vanillasoft</strong>. For assistance,
+          contact
+          <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="eca737865f4b9a55c4b646738ce3b1eee">
+      <p>
+        Open the <strong>Telephony</strong> menu from the main navigation.<br>
+        <img src="/guide-media/01KGMF7RQ2KTABVJG051PZSBNF" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e8ca092789eed1e67d1344735b24bd453">
+      <p>
+        Open the <strong>Music on hold</strong> submenu.<br>
+        <img src="/guide-media/01KGQ42VMCCPYMWHKZPWP92B43" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ec80078623b5167964eb88b87c6f5e63c">
+      <p>
+        Select the <strong>Mailbox Drop</strong> section.<br>
+        <img src="/guide-media/01KGQ42Z77SP5CQEF1YXFJQQ8D" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e671eb035bbe57ce6d8d2acfd246132d5">
+      <p>
+        Click <strong>New</strong> to create a VMDrop.<br>
+        <img src="/guide-media/01KGQ42MSW1BHPZ7M9HYVCAXZD" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="efa48c921b796c630b264c6a0a40694f1">
+      <p>
+        Enter a clear, descriptive <strong>name</strong> for the VMDrop.<br>
+        <img src="/guide-media/01KGQ454XZT22P0C363GG631A5" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ed51794cad2e7baea7cb8c7ab00988eda">
+      <p>
+        Open the <strong>Person</strong> drop-down and select the user or
+        extension the VMDrop will apply to.<br>
+        <img src="/guide-media/01KGQ49E5D1G795Z0P8JADCF8W" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ef2bb67584c06ac322b2774ffd34a14f6">
+      <p>
+        Select a digit from <strong>0–9</strong> that will be used to trigger
+        the VMDrop during a call.<br>
+        <img src="/guide-media/01KGQ4D0BSCX7ANSTFTY7DXZ8Y" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="ef1324fb73371acb45e053b506d5ea5fd">
+          This digit determines the activation code used during calls.
+          For example, selecting <strong>3</strong> allows the VMDrop to
+          be triggered by dialing <strong>#993</strong> when a contact’s
+          voicemail answers.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e5d7397ada6f3da3c6e2400f673bb82a4">
+      <p>
+        Enter a brief <strong>description</strong> of the audio content for
+        internal reference.<br>
+        <img src="/guide-media/01KGQ4EPZBHEFK8SSGCE5CRQ3V" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e7775952bfee290f3f0d6681afa1de4f2">
+      <p>
+        Apply an audio message to the VMDrop by choosing one of the following
+        options.
+      </p>
+      <ul>
+        <li data-list-item-id="e4192f7f71251bba65a08e6c0eaa12e88">
+          <p>
+            <strong>Option 1: Upload an existing recording:</strong>
+            Select <strong>Choose File</strong> to upload a prerecorded
+            voicemail message from your computer. The audio file must
+            be in <strong>.wav</strong> format.&nbsp;<br>
+            <img src="/guide-media/01KGQ6HBQTTJ1R5H3FYM109C5Y" width="502" height="202">&nbsp;
+          </p>
+          <hr style="height: 1px; visibility: hidden;">
+        </li>
+        <li data-list-item-id="e3127bb98ca690a2ad8607b6dd49053f5">
+          <strong>Option 2: Record a new message by phone:</strong> Click
+          the option to record a message using your
+          <strong>Vanillasoft VoIP</strong> phone. Enter the phone number
+          you want to associate with the VMDrop and click <strong>OK</strong>.
+          That number will receive a call with instructions to record the
+          voicemail message, which will be applied automatically.&nbsp;<br>
+          <img src="/guide-media/01KGQ6HEGTYJ067KK4BJ39GFD2" width="502" height="202">
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e0a9c827d0a0c629bcb83b6a554693bf8">
+      <p>
+        When finished, click <strong>Save</strong> to apply the VMDrop, or
+        click <strong>Save and Continue</strong> to save your changes and
+        configure another VMDrop.<br>
+        <img src="/guide-media/01KGQ4Y2RPH8ZTHJF36AP4Z0C8" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+  </ol>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<p>
+  Once your VMDrop mailbox is created in the
+  <strong>Vanillasoft VoIP portal</strong>, it is ready to be activated and used
+  during calls. To begin using VMDrop in your daily workflow, follow the
+  <strong>Activate and Label VMDrops in Vanillasoft</strong> and
+  <strong>Use VMDrops During Calls</strong> steps in the
+  <a href="https://support.vanillasoft.com/hc/en-us/articles/25903871228187" target="_blank" rel="noopener noreferrer"><strong>How to Use Voicemail Drop (VMDrop) in VanillaSoft</strong> </a>article.
+</p>

@@ -1,0 +1,86 @@
+<p>
+  Call recordings in <strong>Vanillasoft VoIP</strong> let you review previous
+  calls for follow-up, coaching, and record keeping.
+</p>
+<p>
+  This article explains how to access the call recordings report in the
+  <strong>Vanillasoft VoIP portal</strong>, generate results for a specific extension,
+  and download a recording to listen to it.
+</p>
+<div class="accordion">
+  <p>
+    <strong>Listen to a Call Recording</strong>
+  </p>
+</div>
+<div class="panel">
+  <ol>
+    <li data-list-item-id="e99879d4d5c736c9ccfb99841f291d9c9">
+      <p>
+        Log in to the
+        <a href="https://connect.cloudli.com" target="_blank" rel="noopener noreferrer"><strong>Vanillasoft VoIP portal</strong></a>.<br>
+        <img src="/guide-media/01KG7QZRYJN8FN4MY4GVFXAHPW" width="502" height="202">
+      </p>
+      <ul>
+        <li data-list-item-id="e2a35938c092ba551e3230cc66e1e7c00">
+          Note: This portal may display <strong>Cloudli</strong> branding
+          because it is hosted by Cloudli. All configuration and support
+          are handled by <strong>Vanillasoft</strong>. For assistance,
+          contact
+          <a href="https://support.vanillasoft.com/hc/en-us/requests/new" target="_blank" rel="noopener noreferrer">Vanillasoft Support</a>.
+        </li>
+      </ul>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e6387df45954b6ac6a09f50090237ca71">
+      <p>
+        Open the <strong>Telephony</strong> menu from the main navigation.<br>
+        <img src="/guide-media/01KGMF7RQ2KTABVJG051PZSBNF" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ee0b37a71c0857f5e30375de663c1b96c">
+      <p>
+        Select the <strong>Report</strong> section from within the Telephony
+        menu.<br>
+        <img src="/guide-media/01KGMEBK8HQZ89TC92K201FBS8" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e60230712071631ebe82ff7e8febf4e19">
+      <p>
+        Select the <strong>Extension</strong> or <strong>User</strong> you
+        want to retrieve recordings for.<br>
+        <img src="/guide-media/01KGJAMVJ55KS054AQ782NET25" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="ed4230476b1055695d14740ba7f7f6213">
+      <p>
+        Select the desired <strong>date range</strong>.<br>
+        <img src="/guide-media/01KGJAR5KFJ6YT7BR54G9W2WJ0" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e67c0588c8d76482e9a613bc6ef4d9bb1">
+      <p>
+        Click <strong>Generate</strong> to load the results.<br>
+        <img src="/guide-media/01KGJASY7V1JFR5WBNH4G1GD7D" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+    <li data-list-item-id="e605cef0bd98899c586e9848163a8b8b0">
+      <p>
+        Click <strong>Listen</strong> for the call you want to review to
+        download the recording, then open the downloaded file to play it.<br>
+        <img src="/guide-media/01KHY8EYAM3J7TD1VTKWAJY85Y" width="502" height="202">
+      </p>
+      <hr style="height: 1px; visibility: hidden;">
+    </li>
+  </ol>
+  <hr style="height: 1px; visibility: hidden;">
+</div>
+<p>
+  Once downloaded, you can listen to the call recording at any time to review key
+  details, verify information discussed during the call, or reference it when following
+  up with a contact.
+</p>
